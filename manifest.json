@@ -3,22 +3,12 @@
   "short_name": "Folletos",
   "description": "Generador de folletos y listas de precios de Entreolas",
   "start_url": "./folletos.html",
-  "scope": "./",
+  "scope": "./folletos.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1B2A6B",
   "icons": [
-    {
-      "src": "./icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "./icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
+    {"src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
   ]
 }
